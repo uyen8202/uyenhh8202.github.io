@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+.carousel-inner{
+	width:65%;
+	color:aliceblue;
+	margin-bottom: 200px
+}
+body{
+	background-image: url("NEN.png");
+	background-size: contain;
+	background-repeat:no-repeat
+}
+.trangc{
+	background-image: url("NEN.png");
+	height:600px;
+	background-size:cover;
+	padding-top: 50px;
+}
+.navbar-brand{
+	color:aliceblue;
+	
+}
+.nav.nav-pills{
+	margin:0 auto
+}
+#carouselExampleIndicators{
+	padding:0px 100px
+}
+.col-md-5 img{
+	height:60px;
+	margin:15px
+}
+.nav.nav-pills{
+	background-color: success
+}

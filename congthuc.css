@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+.carousel-inner{
+	height:700px;
+	width:70%;
+	color:aliceblue
+}
+.navbar-brand{
+	color:aliceblue
+}
+.nav.nav-pills{
+	margin:0 auto
+}
+.text-lg-center.tt{
+	height:600px;
+}
